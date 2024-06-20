@@ -15,4 +15,4 @@
 
 ## 预览地址（请用手机端预览，未对桌面端手势进行适配）
 
-(https://LimeVista.github.io/doodle-paper-vue)[https://LimeVista.github.io/doodle-paper-vue]
+[https://LimeVista.github.io/doodle-paper-vue](https://LimeVista.github.io/doodle-paper-vue)
